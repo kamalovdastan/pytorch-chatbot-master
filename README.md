@@ -2,26 +2,6 @@
 Simple chatbot implementation with PyTorch. 
 
 
-
-
-
-### Create an environment
-
-```console
-mkdir myproject
-$ cd myproject
-$ python3 -m venv venv
-```
-
-### Activate it
-Mac / Linux:
-```console
-. venv/bin/activate
-```
-
-
-
-
 How to run our project 
 ```console
 python train.py
