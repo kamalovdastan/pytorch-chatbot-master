@@ -1,6 +1,8 @@
 # Implementation of a Contextual Chatbot in PyTorch.  
 Simple chatbot implementation with PyTorch. 
 
+Our team consist of 2 people = Dastan Kamalov, Aidana Zhamangulova.
+
 
 How to run our project 
 ```console
